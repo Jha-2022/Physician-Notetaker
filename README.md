@@ -47,7 +47,11 @@ physician-notetaker-console/
 git clone https://github.com/your-username/physician-notetaker-console.git
 cd physician-notetaker-console
 ```
-
+ or 
+# 🔗 Use this zip-file download link 
+```
+https://drive.google.com/file/d/1NWHQqZ9n_Dn80Jzc03UeAXufDU6zY434/view?usp=sharing
+```
 # 2️⃣ Create a Virtual Environment (Optional but Recommended)
 
 ```
